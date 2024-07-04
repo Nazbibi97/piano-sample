@@ -1,0 +1,48 @@
+ .box{
+    margin-top: 100px;
+    padding: 10px;
+    width: 500px;
+    height: 300px;
+    box-sizing: border-box;
+    background-color: green;
+    border-radius: 10px black solid;
+    display: inline-block;
+    
+
+} 
+.boxi{
+    color: #fff;
+    
+}
+
+.keyblock{
+    margin: 2px 2px 2px 2px;
+   padding: 3px; 
+    width: 480px;
+    height: 275px;
+    border: 2px;
+    background-color: gray;
+    border-radius: 5px;
+    display: inline-block;
+    cursor: pointer;
+
+}
+.white{
+    width: 37px;
+    height: 275;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+}
+.white:hover{
+    background-color: lightseagreen;
+}
+.black{
+    width: 37px ;
+    height: 268px;
+    border-radius: 10px;
+    background-color: black;
+}
+.black:hover{
+  background-color: lightseagreen;
+}
